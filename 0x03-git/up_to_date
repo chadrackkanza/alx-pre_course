@@ -1,1 +1,2 @@
-echo 'Close project' > README.md
+git add .
+git push
